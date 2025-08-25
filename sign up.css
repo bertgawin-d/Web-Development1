@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(to bottom right,violet,blue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.one{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    border-radius: 25px;
+}
+.two{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    border-radius: 25px;
+}
+.three{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    border-radius: 25px;
+}
+div{
+    margin-right: 30px;
+    padding-top: 20px;
+
+}
+img{
+    border-radius: 50%;
+    width: 250;
+    height: 190;
+}
+div:hover{
+    
+    box-shadow:0 4px 60px rgba(0,0,0,1);
+}
